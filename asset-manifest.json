@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4dbe958b.chunk.css",
+    "main.js": "/static/js/main.4efdea50.chunk.js",
+    "main.js.map": "/static/js/main.4efdea50.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ea6c8905.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ea6c8905.js.map",
+    "static/js/2.1e9ad718.chunk.js": "/static/js/2.1e9ad718.chunk.js",
+    "static/js/2.1e9ad718.chunk.js.map": "/static/js/2.1e9ad718.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4dbe958b.chunk.css.map": "/static/css/main.4dbe958b.chunk.css.map",
+    "static/js/2.1e9ad718.chunk.js.LICENSE.txt": "/static/js/2.1e9ad718.chunk.js.LICENSE.txt",
+    "static/media/deliberate-thought-by-kevin-macleod-from-filmmusic-io.84a594e2.mp3": "/static/media/deliberate-thought-by-kevin-macleod-from-filmmusic-io.84a594e2.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea6c8905.js",
+    "static/js/2.1e9ad718.chunk.js",
+    "static/css/main.4dbe958b.chunk.css",
+    "static/js/main.4efdea50.chunk.js"
+  ]
+}

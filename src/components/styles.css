@@ -1,0 +1,53 @@
+.main {
+  background-color: #121619;
+}
+
+.card-container {
+  margin: 30px;
+  border: 2px solid rgb(0, 200, 255);
+  border-radius: 15%;
+  padding: auto;
+}
+
+.card {
+  border: 1px solid rgb(0, 205, 255);
+  border-radius: 20%;
+  display: inline-block;
+  margin: 50px;
+  text-align: center;
+  padding: 30px;
+}
+
+.glow {
+  background-color: #121619;
+  border: 1px solid rgb(0, 205, 255);
+  border-radius: 20%;
+  box-shadow: 0px 0px 10px rgb(0, 205, 255);
+  color: rgb(0, 205, 255);
+}
+
+.glow:hover {
+  background-color: rgb(0, 205, 255);
+  box-shadow: 0px 0px 30px rgb(0, 205, 255);
+  color: #121619;
+  cursor: pointer;
+  transition: 0.3s ease-in;
+}
+
+.button {
+  display: block;
+  padding: 5px;
+  margin: 5px;
+  font-size: 1.1em;
+}
+
+.button:hover {
+  border: 1px solid #121619;;
+}
+
+.animation-window {
+  height: 300px;
+  width: 400px;
+  margin: 40px auto;
+  padding: 30px;
+}

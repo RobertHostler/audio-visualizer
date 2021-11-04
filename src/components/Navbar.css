@@ -1,0 +1,11 @@
+.navbar {
+  width: 100%;
+  height: 100px;
+  position: sticky;
+  top: 0px;
+  margin: 0;
+  border: 1px solid #121619;
+  text-align: center;
+  color: #121619;
+  background-image: linear-gradient(rgb(0, 205, 255), 30%, #121619);
+}
